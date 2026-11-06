@@ -12,7 +12,7 @@ on:
 
 # Updated by the installer in a dedicated registration commit.
 # GitHub sees that commit as a change to this workflow and queues the first run.
-# GitSync registration marker: initial-install
+# GitSync registration marker: 2026-11-06T09:04:08Z-4ade8966615b45b38b1c79cb4223119d
 
 permissions:
   contents: write
